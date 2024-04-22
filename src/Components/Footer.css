@@ -1,0 +1,40 @@
+footer{
+    flex-direction: column;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 3rem 5rem;
+    display: flex;
+}
+
+footer>img{
+    margin-bottom: 1.5rem;
+}
+
+footer>p {  
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+    width: 35%;
+    text-align: center;
+}
+
+#footer-items{
+    cursor: pointer;
+    margin-bottom: 1rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+}
+
+#footer--icons{
+    gap: 2rem;
+    height: 2rem;
+    display: flex;
+  
+}
+
+#footer-icons>img{
+    height: 100%;
+    cursor: pointer;
+}

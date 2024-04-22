@@ -1,0 +1,6 @@
+.quote{
+    padding: 5rem 4rem;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+}
